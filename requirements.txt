@@ -1,4 +1,4 @@
-Keras==2.4.3
+keras==2.4.3
 importlib_metadata==3.4.0
 zipp==3.4.0
 lxml==4.6.3
