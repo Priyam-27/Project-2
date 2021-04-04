@@ -1,9 +1,8 @@
-Keras==2.4.1
+Keras==2.4.3
+opencv-python-headless==4.5.1.48
+cvlib==0.2.4
+numpy==1.19.5
 streamlit==0.79.0
-cvlib==0.2.6
-opencv_python_headless==4.5.1.48
-numpy==1.19.
-Pillow==8.1.2
-tensorflow==2.4.1
-Keras-Applications==1.0.8
-Keras-Preprocessing==1.1.2
+Pillow==8.0.0
+tensorflow==2.0.0
+requests==2.25.1
